@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• 📚 <b>Computer Science</b> student at <b>USP</b> and <b>Systems Development Technician</b>.<br>• 🌱 Learning and focused on <b>Machine Learning</b>, <b>Data Analysis</b>, and <b>Data Engineering</b>.<br>• 🧩 Passionate about solving problems through logical and analytical reasoning.</p>
+<p align="left">• 📚 <b>Data Science</b> student at <b>USP</b> and <b>Systems Development Technician</b>.<br>• 🌱 Learning and focused on <b>Machine Learning</b>, <b>Data Analysis</b>, and <b>Data Engineering</b>.<br>• 🧩 Passionate about solving problems through logical and analytical reasoning.</p>
 
 ###
 
